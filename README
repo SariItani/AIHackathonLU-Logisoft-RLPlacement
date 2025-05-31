@@ -1,0 +1,2 @@
+First, run the file "logisoft_hackathon_rl_optimizer.py" and ensure that you have python installed to do so and all the libraries with "pip install -r requirements.txt", then a model called "vehicle_placement_model.pth" will be created in the directory. It will be used in the streamlit application.
+Run the streamlit application using 'streamlit run app.py', for the interactive demo use the sidebar to control the environment around the agent. Thank you for reviewing my work!
